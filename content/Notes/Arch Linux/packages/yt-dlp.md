@@ -13,6 +13,9 @@ date: 11-Aug-2025
 -S = video format
 -P = download path
 -o = output file format
+-x = convert video to audio
+--audio-format mp3
+-I START:STOP:STEP = youtube videos index selection
 
 # Download a youtube playlist
 $ yt-dlp -S "res:720,fps" -P "<absolute-download-path>" -o "%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "<youtube-playlist-link>"
@@ -22,6 +25,7 @@ $ yt-dlp -o "%(uploader)s/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "
 
 # Download a youtube video
 $ yt-dlp -S "res:720,fps" -P "<download-path>" "<youtube-video-link>"
+
 ```
 
 
