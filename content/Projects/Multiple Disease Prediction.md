@@ -6,7 +6,7 @@ date: 24-Aug-2025
 ---
 
 
-[Website](http://ec2-43-204-23-83.ap-south-1.compute.amazonaws.com:8501/) | [Github](https://github.com/SamanwoySaha/Multiple-Disease-Prediction) 
+[Website](http://ec2-3-89-119-62.compute-1.amazonaws.com:8501/) | [Github](https://github.com/SamanwoySaha/Multiple-Disease-Prediction) 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)](https://streamlit.io/) [![Machine Learning](https://img.shields.io/badge/ML-Scikit%20Learn-orange)](https://scikit-learn.org/)
 

@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 # 🏥 [[Multiple Disease Prediction]]
-- [Website](http://ec2-43-204-23-83.ap-south-1.compute.amazonaws.com:8501/) | [Github](https://github.com/SamanwoySaha/Multiple-Disease-Prediction) 
+- [Website](http://ec2-3-89-119-62.compute-1.amazonaws.com:8501/) | [Github](https://github.com/SamanwoySaha/Multiple-Disease-Prediction) 
 - **Tech Stack**: Python, Streamlit, Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn, Github Actions, Docker, AWS EC2
 - **Tech Stack**: Python, Streamlit, Pandas, Numpy, Scikit Learn, Github Actions, Docker, AWS EC2
 - **Algorithms Used**: Diabetes(Support Vector Machine), Heart Disease(Logistic Regression), Parkinson’s Disease(Support Vector Machine)
